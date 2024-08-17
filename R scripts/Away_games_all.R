@@ -1,5 +1,5 @@
 #All stats are publicly available. 
-#Motly taken from espncrickinfo.com , wikipedia
+#Motly taken from espncrickinfo.com , wikipedia trial edit
 
 #steps
 # Gathering data
